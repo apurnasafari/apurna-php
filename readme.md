@@ -1,1 +1,10 @@
-# Apurna PHP Framework
+
+# Apurna PHP
+
+Lightweight PHP Framework
+
+
+## Installation
+
+WIP
+
