@@ -1,0 +1,16 @@
+
+# Large Files
+*.zip
+*.rar
+*.exe
+
+# Temp Files
+/tmp/*
+!/tmp/NoCommits.txt
+
+
+# Development
+/.vscode
+.noseids
+*~
+~*
